@@ -1,0 +1,54 @@
+html {
+  font-size: 1.5em;
+}
+
+body {
+  background-color: rgb(3, 6, 50);
+}
+
+h1, h2, h3,  p {
+  color: white;
+}
+
+.main-title {
+  text-align: center;
+}
+
+.US-news-btn {
+  width: 200px;
+  padding: 10px;
+  background-image: url('https://static.vecteezy.com/system/resources/previews/000/532/212/original/vector-united-states-of-america-flag-usa-flag-america-flag-background.jpg');
+  background-size: cover;
+  font-weight: 900;
+}
+
+.Ind-news-btn {
+  width: 200px;
+  padding: 10px;
+  background-image: linear-gradient(orange,white,green);
+  font-weight: 900;
+  background-size: cover;
+}
+
+.article-wrapper {
+  width: 60%;
+  margin: auto;
+}
+
+.artImg {
+  width: 100%;
+}
+
+.publish {
+  color: rgb(80, 76, 76);
+}
+
+.artLink {
+  text-decoration: none;
+  background-color: rgb(125, 125, 146);
+}
+
+.err {
+  font-size: 0.5em;
+  color: red;
+}
